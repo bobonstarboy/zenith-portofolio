@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pembayaran Sukses</title>
+    <link rel="stylesheet" href="pembayaranberhasil.css">
+</head>
+<body>
+    <div class="container">
+        <div class="success-message">
+            <h1>Pembayaran Sukses!</h1>
+            <p>Terima kasih telah melakukan pembayaran.</p>
+            <p>Detail transaksi Anda:</p>
+            <ul>
+                <li>ID Transaksi: 123456789</li>
+                <li>Jumlah: Rp 500.000</li>
+                <li>Metode Pembayaran: Kartu Kredit</li>
+                <li>Tanggal: 1 Januari 2023</li>
+            </ul>
+            <a href="index.html" class="btn">Kembali ke Beranda</a>
+        </div>
+    </div>
+</body>
+</html>
